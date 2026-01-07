@@ -18,9 +18,9 @@ This project analyzes Walmart sales data using PostgreSQL and Power BI, providin
 
 ## Dashboards & Analysis
 1️. **Sales & Revenue Analysis**
-2.**Promotion & Discount Impact Analysis**
-3.**Customer Demographic Analysis**
-4️.**Insights Commentary**
+2. **Promotion & Discount Impact Analysis**
+3. **Customer Demographic Analysis**
+4️. **Insights Commentary**
 
 ## Tools Used
 **SQL (PostgreSQL)** – Data extraction, transformation, and querying
